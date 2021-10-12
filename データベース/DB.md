@@ -44,7 +44,7 @@
 |PCタイプ|pc_cate|int(11)||〇||
 |OS|os_id|int(11)||〇||
 |CPU|cpu_id|int(11)||〇||
-|メモリー|memory_idint(11)||〇||
+|メモリー|memory_id|int(11)||〇||
 |GPU|gup_id|int(11)||〇||
 |SSD|ssd_id|int(11)||〇||
 |HDD|hdd_id|int(11)||〇||
