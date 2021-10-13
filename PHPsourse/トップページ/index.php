@@ -35,6 +35,10 @@
 <div class="cont">
     <!-- ここからそれぞれのコード -->
     aaaaaaaaaaaaaa
+    
+    
+    
+    
 </div>
 <footer>
     <div class="foot-wrap">
@@ -62,7 +66,7 @@
                 <li><a href="#">footer-menu</a></li>
             </ul>
         </div>
-        <small class="cmark">©2001システム開発3班
+        <small class="cmark">©2021システム開発3班
         </small>
     </div>
 </footer>
